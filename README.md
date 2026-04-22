@@ -8,8 +8,8 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-cartoes">Cartões</a> • 
- <a href="#-visualizacoes">Visualizações</a> 
+ <a href="#-cartões">Cartões</a> • 
+ <a href="#-visualizações">Visualizações</a> 
 </p>
 
 ---
